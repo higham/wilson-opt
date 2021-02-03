@@ -1,0 +1,23 @@
+* Optimizing the Wilson matrix
+
+* About
+
+==wilson_optimize== is a MATLAB function that computes the 
+4-by-4 symmetric and symmetric positive definite matrices
+with integer elements lying between 1 and 10 having the largest 2-norm
+condition numbers.
+The code takes about six hours to run on a PC with an
+Intel Core i7-6800K processor.
+
+* Requirements
+
+The code was developed in MATLAB R2020b.
+
+* References
+
+Optimizing and Factorizing the Wilson Matrix,
+Nicholas J. Higham and Matthew C. Lettington, submitted.
+
+* License
+
+See =license.txt= for licensing information.
