@@ -4,7 +4,7 @@
 4-by-4 symmetric and symmetric positive definite matrices
 with integer elements lying between 1 and 10 having the largest 2-norm
 condition numbers.
-The code takes about six hours to run on a PC with an
+The code takes about forty minutes to run on a PC with an
 Intel Core i7-6800K processor.
 
 * Requirements
